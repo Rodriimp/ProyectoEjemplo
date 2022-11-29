@@ -1,4 +1,4 @@
 # ProyectoEjemplo
 Aquí se pondran instrucciones 
 
-Autor: Rafael Madrigal Toscano
+Autor: Rodrigo Moreno Palacios
