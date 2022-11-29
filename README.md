@@ -3,4 +3,5 @@ Aquí se pondran instrucciones
 
 Autor: Rodrigo Moreno Palacios
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hola buenas tardes
+
